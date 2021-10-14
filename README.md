@@ -8,10 +8,7 @@ I am an AI enthusiast from China. I am working with Natural Language Processing 
 - 🎮 I've been getting into beat saber lately.🗡
 - 💬 Be free to ask me about anything [here](https://github.com/Sknp1006/Sknp1006/issues).
 
-<a href="https://github.com/Sknp1006">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sknp1006&show_icons=true&icon_color=0078e7&title_color=0078e7">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sknp1006&layout=compact&count_private=true" style="width: 40%; max-width: 40%; min-width: 40%;">
-</a>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Sknp1006&show_icons=true&icon_color=0078e7&title_color=0078e7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sknp1006&layout=compact&count_private=true" style="width: 40%; max-width: 40%; min-width: 40%;"></p>
 
 #### Languages
 
