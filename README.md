@@ -7,9 +7,9 @@ I am an AI enthusiast from China. I am working with Natural Language Processing 
 - ❤️ I like eating 🍖, playing 🏸, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
 - 🎮 I've been getting into beat saber lately.🗡
 - 💬 Be free to ask me about anything [here](https://github.com/Sknp1006/Sknp1006/issues).
-- 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sknp1006&show_icons=true&icon_color=0078e7&title_color=0078e7">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sknp1006&layout=compact&count_private=true" style="width: 40%; max-width: 40%; min-width: 40%;">
 
 #### Languages
 
