@@ -8,7 +8,7 @@ I am an AI enthusiast from China. I am working with Natural Language Processing 
 - 🎮 I've been getting into beat saber lately.🗡
 - 💬 Be free to ask me about anything [here](https://github.com/Sknp1006/Sknp1006/issues).
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Sknp1006&show_icons=true&icon_color=0078e7&title_color=0078e7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sknp1006&layout=compact&count_private=true" style="width: 40%; max-width: 40%; min-width: 40%;"></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sknp1006&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
 #### Languages
 
@@ -62,3 +62,5 @@ I am an AI enthusiast from China. I am working with Natural Language Processing 
 - **Epson**
 
 > I am not interested in the ordinary 996 company, if you have many holidays, leave work early, high salary, and interesting company, feel free to find me, over!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sknp1006&layout=compact&count_private=true" style="width: 40%; max-width: 40%; min-width: 40%;">
