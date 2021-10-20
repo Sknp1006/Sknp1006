@@ -4,7 +4,7 @@ I am an AI enthusiast from China. I am working with Natural Language Processing 
 
 - 🌱 I’m currently learning DM & NLP & MV, and want to learn everything interesting.
 - 🤔 I want to learn more about AI knowledge to make awesome open source projects.
-- ❤️ I like eating 🍖, playing 🏸, running🏃, listening to the violin🎻, sleeping in 🛌.
+- ❤️ I like eating 🍖, playing 🏸, 🏃, listening to the 🎻, sleeping in 🛌.
 - 🎮 I've been getting into beat saber lately.
 - 💬 Be free to ask me about anything [here](https://github.com/Sknp1006/Sknp1006/issues).
 
