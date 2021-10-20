@@ -4,8 +4,8 @@ I am an AI enthusiast from China. I am working with Natural Language Processing 
 
 - 🌱 I’m currently learning DM & NLP & MV, and want to learn everything interesting.
 - 🤔 I want to learn more about AI knowledge to make awesome open source projects.
-- ❤️ I like eating 🍖, playing 🏸, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
-- 🎮 I've been getting into beat saber lately.🗡
+- ❤️ I like eating 🍖, playing 🏸, running🏃, listening to the violin🎻, sleeping in 🛌.
+- 🎮 I've been getting into beat saber lately.
 - 💬 Be free to ask me about anything [here](https://github.com/Sknp1006/Sknp1006/issues).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sknp1006&show_icons=true&icon_color=0078e7&title_color=0078e7">
