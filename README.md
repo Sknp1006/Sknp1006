@@ -34,7 +34,7 @@ I am an AI enthusiast from China. I am working with Natural Language Processing 
 <!-- markdownlint-disable -->
 <code><img height="20" src="https://api.iconify.design/logos:tensorflow.svg" alt="tensorflow" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:pytorch.svg" alt="pytroch" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:git.svg" alt="git" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:docker-icon.svg" alt="docker" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:pycharm.svg" alt="pycharm" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:visual-studio.svg" alt="visual-studio" /></code>
