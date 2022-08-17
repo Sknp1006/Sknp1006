@@ -1,8 +1,8 @@
 ### Hi there, I'm [SKNP](https://sknplz.xyz)（焼烤牛排）. 👋
 
-I am an AI enthusiast from China. I am working with Natural Language Processing and Machine Vision.
+I am an AI enthusiast from China. I am working with Machine Vision.
 
-- 🌱 I’m currently learning DM & NLP & MV, and want to learn everything interesting.
+- 🌱 I’m currently learning MV&ML, and want to learn everything interesting.
 - 🤔 I want to learn more about AI knowledge to make awesome open source projects.
 - ❤️ I like eating 🍖, playing 🏸, 🏃, listening to the 🎻, sleeping in 🛌.
 - 🎮 I've been getting into beat saber lately.
