@@ -20,8 +20,6 @@ I am an AI enthusiast from China. I am working with Machine Vision.
 <code><img height="20" src="https://api.iconify.design/logos:c-plusplus.svg" alt="c-plusplus" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:c-sharp.svg" alt="c-sharp" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:java.svg" alt="java" /></code>
-<code><img height="20" src="https://api.iconify.design/logos:gopher.svg" alt="go" /></code>
-<code><img height="20" src="https://api.iconify.design/logos:php.svg" alt="php" /></code>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
