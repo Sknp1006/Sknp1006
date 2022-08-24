@@ -33,6 +33,7 @@ I am an AI enthusiast from China. I am working with Machine Vision.
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <code><img height="20" src="https://user-images.githubusercontent.com/41496773/144385577-9feecdf9-bf9b-4fc7-a8ce-bd24927d9280.png" alt="paddlepaddle" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:opencv.svg" alt="tensorflow" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:tensorflow.svg" alt="tensorflow" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:pytorch.svg" alt="pytroch" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:git.svg" alt="git" /></code>
