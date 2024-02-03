@@ -1,4 +1,4 @@
-### Hi there, I'm [SKNP](https://sknplz.xyz)（焼烤牛排）. 👋
+### Hi there, I'm [SKNP](https://sknp.top)（焼烤牛排）. 👋
 
 I am an AI enthusiast from China. I am working with Machine Vision.
 
