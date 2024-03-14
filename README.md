@@ -13,9 +13,9 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://api.iconify.design/logos:python.svg" alt="python" /></code>
-<code><img height="20" src="https://api.iconify.design/logos:c.svg" alt="c" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:c-plusplus.svg" alt="c-plusplus" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:c.svg" alt="c" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:python.svg" alt="python" /></code>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
@@ -51,5 +51,3 @@
 
 
 > I am not interested in the ordinary 996 company, if you have many holidays, leave work early, high salary, and interesting company, feel free to find me, over!
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sknp1006&layout=compact&count_private=true" style="width: 40%; max-width: 40%; min-width: 40%;">
