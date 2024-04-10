@@ -1,9 +1,9 @@
 ### Hi there, I'm [SKNP](https://sknp.top)（焼烤牛排）. 👋
 
-- 🌱 I’m currently working with Rockchip platform (RK356X/RK3588).
+- 🌱 I’m currently working on Rockchip platform (RK356X/RK3588) and preparing for the PMP(Jun 1st) and the IELTS(Aug).
 - 🤔 I want to learn more about AI knowledge to make awesome open source projects.
 - ❤️ I like eating 🍖, playing 🏸, 🏃, listening to the 🎻, sleeping in 🛌.
-- 🎮 I've been getting into beat saber lately.
+- 🎮 I don't play games anymore.
 - 💬 Be free to ask me about anything [here](https://github.com/Sknp1006/Sknp1006/issues).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sknp1006&show_icons=true&icon_color=0078e7&title_color=0078e7">
