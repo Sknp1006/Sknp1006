@@ -1,6 +1,6 @@
 ### Hi there, I'm [SKNP](https://sknp.top)（焼烤牛排）. 👋
 
-- 🌱 I’m currently working on Rockchip platform (RK356X/RK3588) and preparing for the IELTS(Aug).
+- 🌱 I’m currently working on Rockchip platform (RK356X/RK3588).
 - 🤔 I want to learn more about AI knowledge to make awesome open source projects.
 - ❤️ I like eating 🍖, playing 🏸, 🏃, listening to the 🎻, sleeping in 🛌.
 - 🎮 I don't play games anymore.
@@ -26,7 +26,6 @@
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://api.iconify.design/logos:nvidia.svg" alt="cuda" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:opencv.svg" alt="opencv" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:git.svg" alt="git" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:docker-icon.svg" alt="docker" /></code>
