@@ -1,6 +1,6 @@
 ### Hi there, I'm [SKNP](https://sknp.top)（焼烤牛排）. 👋
 
-- 🌱 I’m currently working on Rockchip platform (RK356X/RK3588).
+- 🌱 I’m currently learning CUDA.
 - 🤔 I want to learn more about AI knowledge to make awesome open source projects.
 - ❤️ I like eating 🍖, playing 🏸, 🏃, listening to the 🎻, sleeping in 🛌.
 - 🎮 I don't play games anymore.
