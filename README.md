@@ -11,8 +11,6 @@
 - 🎮 Arknights(B服): 焼烤牛排#2170
 - 💬 Be free to ask me about anything [here](https://github.com/Sknp1006/Sknp1006/issues).
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sknp1006&show_icons=true&icon_color=0078e7&title_color=0078e7">
-
 #### Languages
 
 <!-- languages:start -->
